@@ -1,0 +1,20 @@
+{
+  "client": "<abacusai.client.ApiClient object at 0x7f0de5634e50>",
+  "created_at": "2025-10-28T15:29:03+00:00",
+  "dataset_id": "e1e1d4346",
+  "deprecated_keys": "{'name'}",
+  "export_on_materialization": "False",
+  "feature_expression": "",
+  "feature_group_id": "355f6d6fc",
+  "feature_group_source_type": "DATASET",
+  "id": "355f6d6fc",
+  "incremental": "False",
+  "latest_feature_group_version": "FeatureGroupVersion(feature_group_version='fa3bbf38e',\n  feature_group_id='355f6d6fc',\n  sql='SELECT * FROM datasets_JARVIS_DATA_1',\n  source_tables=['datasets_JARVIS_DATA_1'],\n  source_dataset_versions=['1a8fde018'],\n  created_at='2025-10-28T15:29:03+00:00',\n  status='PENDING',\n  deployable=False,\n  features=[])",
+  "modification_lock": "False",
+  "name": "JARVIS_DATA_1",
+  "sql_error": "Dataset with table name \"JARVIS_DATA_1\" is still being processed.",
+  "streaming_enabled": "False",
+  "table_name": "JARVIS_DATA_1",
+  "use_original_csv_names": "False",
+  "version_limit": "30"
+}
